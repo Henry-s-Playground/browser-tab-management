@@ -1,0 +1,12 @@
+# Add/remove 'critical' label if issue contains the words 'urgent' or 'critical'
+
+extension:tabbs:
+  - '[x]\btabbs'
+extension:tab-groups-extension:
+  - '[x]\btab\bgroups\bextension'
+extension:tab-multi-selector:
+  - '[x]\btab\bmulti\-selector'
+extension:chrome-tab-renamer:
+  - '[x]\bchrome\btab\brenamer'
+extension:copy-as-markdown:
+  - '[x]\bcopy\bas\bmarkdown'
