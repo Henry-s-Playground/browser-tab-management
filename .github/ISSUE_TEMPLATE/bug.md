@@ -1,5 +1,5 @@
 ---
-name: Feature request
+name: Bug
 about: bug
 title: ""
 labels: bug
